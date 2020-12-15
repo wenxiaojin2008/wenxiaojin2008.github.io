@@ -1,5 +1,7 @@
 ## NAME: Xiaojin Wen
 
+Institude: Dezhou University
+
 Address: No. 566, University West Road, Decheng District, Dezhou City, Shandong Province (253023)
 
 Tel: 159-9160-3558 
@@ -8,11 +10,13 @@ E-mail: wenxiaojin2008@163.com
 
 Year of Birth: 1987
 
-### Working experience
+Research Interests: Social-ecological systems
 
-2020.12-  School of Ecology, Resources and Environment, Dezhou University  Lecturer   Major: Human Geography  Research field: Social-ecological System
+### Working Experience
 
-2017.09-2020.08  China Tourism Academy (Postdoctoral) Cooperative Mentor: Researcher Jinsong Yang    Research field: Inbound and Outbound Tourism
+2020.12-  School of Ecology, Resources and Environment, Dezhou University.  Lecturer.   Major: Human Geography.  Research field: Social-ecological System.
+
+2017.09-2020.08  China Tourism Academy (Postdoctoral) Cooperative Mentor: Researcher.   Research field: Inbound and Outbound Tourism.
 
 ###  Educational Background
 
