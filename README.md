@@ -1,9 +1,24 @@
-## Xiaojin Wen
+## NAME: Xiaojin Wen
 
 Address: No. 566, University West Road, Decheng District, Dezhou City, Shandong Province (253023)
 Tel: 159-9160-3558 
 E-mail: wenxiaojin2008@163.com
-Date of Birth: 1987
+Year of Birth: 1987
+
+### Working experience
+
+2020.12-  School of Ecology, Resources and Environment, Dezhou University  Lecturer   Major: Human Geography  Research field: Social-ecological System
+
+2017.09-2020.08  China Tourism Academy (Postdoctoral) Cooperative Mentor: Researcher Jinsong Yang    Research field: Inbound and Outbound Tourism
+
+###  Educational Background
+
+2011.09-2017.07   Northwest University, China (M.Sc. and Ph.D.) 
+Human Geography (Ph.D.) Supervisor: Professor Xinjun Yang. Research field: Tourism Geography and Social-ecosystem
+Regional Economics (M.Sc.)  Supervisor: Professor Haijuan Yang.  Research field: land planning and land use change
+
+2006.09-2010.07  Northwest University, China  Resource Environment and Urban and Rural Planning Management (A++) (B.Sc.)
+
 
 ### Markdown
 
@@ -28,11 +43,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wenxiaojin2008/wenxiaojin2008.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
