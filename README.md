@@ -1,8 +1,11 @@
 ## NAME: Xiaojin Wen
 
 Address: No. 566, University West Road, Decheng District, Dezhou City, Shandong Province (253023)
+
 Tel: 159-9160-3558 
+
 E-mail: wenxiaojin2008@163.com
+
 Year of Birth: 1987
 
 ### Working experience
@@ -33,6 +36,6 @@ Human Geography (Ph.D.) Supervisor: Professor Xinjun Yang. Research field: Touri
 10.Yanxu Liu, Wenheng Wu, Xiaojin Wen. Urban process and its eco-environmental impact in Shanxi-Shaanxi-Inner Mongolia energy. Geographical Research, 2013, 32(11): 2009-2020
 11.Fusheng Hu, Ziqian Song, Pu Wu, Xiaojin Wen. Qiandao Lake: to develop tourism and enrich people in Qiandao Lake. China Tourism News, 2017-12-18. 
 12.Liu Junsheng, Li Cui, Tao Jinqing, Ma Yaofeng, Wen Xiaojin. Spatiotemporal coupling factors and mode of tourism industry, urbanization and ecological environment: A case study of Shaanxi, China. Sustainability, 2019, 11: 4923.
-Doctoral Dissertation:	 The fragility and adaptation of mountain society-ecosystem from the perspective of resilience.
+Doctoral Dissertation:The fragility and adaptation of mountain society-ecosystem from the perspective of resilience.
 ```
 
